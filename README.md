@@ -1,4 +1,4 @@
-digitalkaoz/preload-polyfillの動作を確認するためのリポジトリです。
+preload-polyfill
 
 https://github.com/digitalkaoz/preload-polyfill
 
